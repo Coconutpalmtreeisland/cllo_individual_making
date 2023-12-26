@@ -145,19 +145,19 @@
 }
 
 .join__wrap .login__naver span {
-    background-image: url(/assets/img/logo_naver.svg);
+    background-image: url(./assets/img/logo_naver.svg);
 }
 
 .join__wrap .login__apple span {
-    background-image: url(/assets/img/logo_apple.svg);
+    background-image: url(./assets/img/logo_apple.svg);
 }
 
 .join__wrap .login__google span {
-    background-image: url(/assets/img/logo_google.svg);
+    background-image: url(./assets/img/logo_google.svg);
 }
 
 .join__wrap .login__kakao span {
-    background-image: url(/assets/img/logo_kakao.svg);
+    background-image: url(./assets/img/logo_kakao.svg);
 }
 
 /* ---------------------------------------------------------- */
